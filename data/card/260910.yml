@@ -7,7 +7,7 @@ about:
   latestVersion: "vscode-v0.2.3"
   latestRelease: "vscode-v0.2.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:49:41Z
+  collectedAt: 2026-09-10T20:35:38Z
 timeline:
   created: 2023-04-07
   lastCommit: 2025-06-16
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-05-25
   lastPrerelease: 
 popularity:
-  star: 280
+  star: 279
   watcher: 2
   fork: 22
   release: 5
@@ -85,7 +85,7 @@ total:
   commit: 120
 ---
 path: /home/runner/.x-repo/github.com/nrempel/sleek
-collectedAt: 2026-09-10T05:49:42Z
+collectedAt: 2026-09-10T20:35:38Z
 loc:
   Json:
     code: 5808
