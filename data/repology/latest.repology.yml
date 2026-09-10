@@ -16,9 +16,9 @@
   srcname: sleek-bin
   binname: sleek-bin
   visiblename: sleek-bin
-  version: 2.0.28
-  origversion: 2.0.28-1
-  status: outdated
+  version: 2.0.29
+  origversion: 2.0.29-1
+  status: newest
   summary: An open-source (FOSS) todo manager based on the todo.txt syntax.
   maintainers:
     - zxp19821005@aur
