@@ -47,12 +47,12 @@ Total: **8,012** lines of code across **15** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-22 | 0 | 0 | 7 | 0 | 1 | 0 |
-| last720d | 2024-09-27 | 4 | 3 | 10 | 5 | 6 | 70 |
+| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-23 | 0 | 0 | 7 | 0 | 0 | 0 |
+| last720d | 2024-09-28 | 4 | 3 | 10 | 5 | 6 | 70 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for sleek lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T06:13:43Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T05:59:36Z._
