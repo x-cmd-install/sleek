@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 534104,
       "digest": null,
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2025-05-25T16:21:05Z",
       "updated_at": "2025-05-25T16:21:05Z",
       "browser_download_url": "https://github.com/nrempel/sleek/releases/download/vscode-v0.2.3/sleek-sql-0.2.3.vsix"
