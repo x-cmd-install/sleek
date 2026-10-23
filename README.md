@@ -47,18 +47,27 @@ Total: **8,012** lines of code across **15** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-27 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last720d | 2024-11-01 | 4 | 3 | 10 | 4 | 6 | 70 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-28 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last720d | 2024-11-02 | 4 | 3 | 10 | 4 | 6 | 70 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
 | [sleek-sql-0.2.3.vsix](https://github.com/nrempel/sleek/releases/download/vscode-v0.2.3/sleek-sql-0.2.3.vsix) | 521.6 KiB | `other` |
+
+## Distribution status
+
+Reported by **11** distros on [repology.org](https://repology.org/project/sleek). **2** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.5.0` | ⚠️ outdated |
+| Nix unstable | `0.5.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -69,4 +78,4 @@ Install metadata for sleek lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:41:03Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:42:26Z._
