@@ -37,7 +37,7 @@ Total: **8,012** lines of code across **15** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 277 · **Forks**: 22 · **Open issues**: 27 · **Contributors**: 3
+- **Stars**: 279 · **Forks**: 22 · **Open issues**: 27 · **Contributors**: 3
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **8,012** lines of code across **15** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-27 | 4 | 3 | 10 | 2 | 6 | 70 |
+| 30d | 2026-10-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-29 | 4 | 3 | 10 | 2 | 6 | 70 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for sleek lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:45:49Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:48:48Z._
